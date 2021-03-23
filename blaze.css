@@ -1,0 +1,65 @@
+.same{
+	display: flex;
+	background-color: #f2f0eb;
+	font-family: Georgia;
+}
+
+.logo{
+	width: 255px;
+	height: 150px;
+	margin-left: 47px;
+}
+
+.home{
+	margin-left: 760px; 
+	margin-top: 27px;
+}
+
+.about{
+	margin-left: 40px;
+	margin-top: 27px;
+}
+
+.contact{
+	margin-left: 40px;
+	margin-top: 27px;
+}
+
+.head{
+	font-family: Georgia;
+	margin-left: 69px;
+}
+
+.head2{
+	font-family: Georgia;
+	text-align: center;
+}
+
+.content{
+	font-family: Georgia;
+	text-align: center;
+	line-height: 22px;
+}
+
+.footer{
+	background-color: #ebe4d8;
+	font-family: Georgia;
+	display: flex;
+}
+
+.head3{
+	font-size: 30px;
+	margin-left: 45px;
+	margin-top: 50px;
+	padding: 10px;
+}
+
+.fcontent{
+	margin-left: 50px;
+	line-height: 22px;
+}
+
+.social{
+	padding-top: 20px;
+	line-height: 26px;
+}
